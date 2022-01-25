@@ -47,7 +47,7 @@ C언어의 확장
 
 ### 교과목에 따른 핵심역량
 
-현실적 제한조건 및 요구조건을 반영ㅇ하여 시스템 및 공정을 설계하고, 프로젝트를 계획하여 수행할 수 있는 능력
+현실적 제한조건 및 요구조건을 반영하여 시스템 및 공정을 설계하고, 프로젝트를 계획하여 수행할 수 있는 능력
 
 공학 및 정보기술 관련 실무에 필요한 기술, 방법, 도구들을 사용할 수 있는 능력
 
@@ -57,13 +57,13 @@ C언어의 확장
 1. 교과목 소개
 2. 타입과 수식
 3. 문장과 제어문
-4. 함수
+4. [함수](https://github.com/plumwiserim/CPP-Programming/blob/master/05_function.md)
 5. 클래스
 6. 생성자/소멸자
-7. 상속
-9. 다형성
+7. [상속](https://github.com/plumwiserim/CPP-Programming/blob/master/10_inheritance.md)
+9. [다형성](https://github.com/plumwiserim/CPP-Programming/blob/master/11_polymorphism.md)
 10. 연산자 오버로딩
-11. 템플릿
+11. [템플릿](https://github.com/plumwiserim/CPP-Programming/blob/master/13_template_class.md)
 12. STL
-13. 예외처리
+13. [예외처리](https://github.com/plumwiserim/CPP-Programming/blob/master/14_exception_handling.md)
 14. 네임스페이스
