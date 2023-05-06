@@ -58,7 +58,7 @@ C언어의 확장
 2. 타입과 수식
 3. 문장과 제어문
 4. [함수](https://github.com/plumwiserim/CPP-Programming/blob/master/05_function.md)
-5. 클래스
+5. [클래스](https://github.com/plumwiserim/CPP-Programming/tree/master/class)
 6. 생성자/소멸자
 7. [상속](https://github.com/plumwiserim/CPP-Programming/blob/master/10_inheritance.md)
 9. [다형성](https://github.com/plumwiserim/CPP-Programming/blob/master/11_polymorphism.md)
